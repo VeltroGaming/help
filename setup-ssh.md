@@ -126,7 +126,7 @@ Schließe den Einstellungs-Dialog indem du unten links auf `OK` klickst.
 
   * **Verbindungsart:** `Normal`
 
-  * **Benutzer:** `root`
+  * **Benutzer:** `dein-username-hier`
 
   * **Passwort:** frei lassen
 

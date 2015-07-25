@@ -13,9 +13,9 @@ Ein Linux User würde sicherlich kein Tutorial brauchen. :wink:
 Um dich per SSH mit unserem Server zu verbinden, benötigst du zuerst einen SSH
 Client. Wir empfehlen **PuTTY**.
 
-Lade dir PuTTY bitte nur direkt von der [Entwickler-Website](1) herunter.
+Lade dir PuTTY bitte nur direkt von der [Entwickler-Website][1] herunter.
 Wähle den PuTTY Windows *Installer* aus oder klicke einfach hier:
-[`putty-0.64-installer.exe`](2)
+[`putty-0.64-installer.exe`][2]
 
 [1]: http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
 [2]: http://the.earth.li/~sgtatham/putty/latest/x86/putty-0.64-installer.exe
@@ -34,7 +34,7 @@ Happy Birthday, du hast ein Programm installiert. :tada:
 Da du sicherlich auch Datein transferieren möchtest, solltest du auch einen
 SFTP-Client habe. Wir empfehlen **FileZilla**.
 
-Lade dir FileZilla bitte nur direkt von der [Entwickler-Website](3) herunter.
+Lade dir FileZilla bitte nur direkt von der [Entwickler-Website][3] herunter.
 
 [3]: https://filezilla-project.org/download.php?show_all=1
 
@@ -142,8 +142,8 @@ Du solltest dich nun erfolgreich verbinden können.
 
 * Stelle sicher, dass du tatsächlich jeden Schritt korrekt ausgeführt hat.
 
-* Immer noch Probleme? Installiere oder starte [TeamViewer](4)
-  ([`TeamViewer_Setup_de.exe`](5)). Schicke deine ID und dein Kennwort an den
+* Immer noch Probleme? Installiere oder starte [TeamViewer][4]
+  ([`TeamViewer_Setup_de.exe`][5]). Schicke deine ID und dein Kennwort an den
   Admin, so dass er sich auf deinen PC verbinden kann.
 
 [4]: https://www.teamviewer.com/de/download/windows.aspx

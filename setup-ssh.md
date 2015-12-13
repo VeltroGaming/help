@@ -70,7 +70,9 @@ etwas wie `ssh-rsa AAAAB3Nza...` steht, und klicke `Alle auswählen`. Dann noch
 ein Rechtsklick und dann `Kopieren`.
 
 Schicke diesen Public Key (`Ctrl + V`) an den Admin, der deinen Account
-einrichtet.
+einrichtet. Nutze hierzu bitte [GitHub Gist][4] und schicke ihm die URL.
+
+[4]: https://gist.github.com/
 
 
 ### 4. PuTTY konfigurieren
@@ -142,9 +144,9 @@ Du solltest dich nun erfolgreich verbinden können.
 
 * Stelle sicher, dass du tatsächlich jeden Schritt korrekt ausgeführt hat.
 
-* Immer noch Probleme? Installiere oder starte [TeamViewer][4]
-  ([`TeamViewer_Setup_de.exe`][5]). Schicke deine ID und dein Kennwort an den
+* Immer noch Probleme? Installiere oder starte [TeamViewer][5]
+  ([`TeamViewer_Setup_de.exe`][6]). Schicke deine ID und dein Kennwort an den
   Admin, so dass er sich auf deinen PC verbinden kann.
 
-[4]: https://www.teamviewer.com/de/download/windows.aspx
-[5]: http://download.teamviewer.com/download/TeamViewer_Setup_de.exe
+[5]: https://www.teamviewer.com/de/download/windows.aspx
+[6]: http://download.teamviewer.com/download/TeamViewer_Setup_de.exe

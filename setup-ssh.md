@@ -15,10 +15,10 @@ Client. Wir empfehlen **PuTTY**.
 
 Lade dir PuTTY bitte nur direkt von der [Entwickler-Website][1] herunter.
 Wähle den PuTTY Windows *Installer* aus oder klicke einfach hier:
-[`putty-0.64-installer.exe`][2]
+[`putty-0.66-installer.exe`][2]
 
 [1]: http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
-[2]: http://the.earth.li/~sgtatham/putty/latest/x86/putty-0.64-installer.exe
+[2]: http://the.earth.li/~sgtatham/putty/latest/x86/putty-0.66-installer.exe
 
 Führe den Installer aus und installiere PuTTY. Ändere nichts an den
 Einstellungen und klicke einfach immer auf `Next >` und am Ende auf `Install`.

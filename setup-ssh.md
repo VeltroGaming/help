@@ -55,8 +55,8 @@ Nach dem zweiten Durchlauf werden nun mehrere neue Felder angezeigt.
 Führe folgende Änderungen durch:
 
 * `Key comment`: Hier deinen vollen Namen einfügen.
-* Setze nur eine Passphrase, wenn du nicht vorhast FileZilla zu benutzen.
-  Im Zwefeilsfall, setze keine Passphrase.
+* Setze eine *sichere* Passphrase, die du dir merken kannst. Denke dir am besten einfach einen kurzen Merksatz aus.
+  Beipsiel: [`correct horse battery staple`](https://xkcd.com/936/)
 
 Klicke jetzt `Save private key`. Speichere den Key an einem Ort, wo du ihn
 leicht wiederfindest, aber er dich nicht stört und aus Versehen gelöscht wird.
@@ -99,13 +99,11 @@ Setze folgende Einstellungen:
 * Klicke auf `Save`.
 
 Mit einem Klick auf `Open` sollte sich nun eine SSH Session öffnen.
+Gib deinen Usernamen ein und drücke Enter. Danach gib deine Passphrase ein und drücke nochmals Enter.
+Während der Eingabe der Passphrase werden dir keine Zeichen angezeigt, also nicht wundern.
 
 
 ### 5. FileZilla konfigurieren
-
-##### Bearbeiten > Einstellungen > Verbindung > SFTP
-
-* `Schlüsseldatei hinzufügen`: Wähle hier deinen SSH Key aus.
 
 ##### Bearbeiten > Einstellungen > Oberfläce
 
@@ -126,15 +124,15 @@ Schließe den Einstellungs-Dialog indem du unten links auf `OK` klickst.
 
   * **Protokoll:** `SFTP - SSH File Transfer Protocol`
 
-  * **Verbindungsart:** `Normal`
+  * **Verbindungsart:** `Schlüsseldatei`
 
   * **Benutzer:** `dein-username-hier`
 
-  * **Passwort:** frei lassen
+  * **Schlüsseldatei:** Pfad zur Schlüsseldatei
 
 4. Klicke auf `Verbinden`.
 
-Du solltest dich nun erfolgreich verbinden können.
+Du solltest dich nun erfolgreich verbinden können und nach deiner Passphrase gefragt werden.
 
 
 ## Probleme?
